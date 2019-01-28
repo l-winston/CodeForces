@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest102/Contest102.iml" filepath="$PROJECT_DIR$/Contest102/Contest102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest16/Contest16.iml" filepath="$PROJECT_DIR$/Contest16/Contest16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest227/Contest227.iml" filepath="$PROJECT_DIR$/Contest227/Contest227.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest463/Contest463.iml" filepath="$PROJECT_DIR$/Contest463/Contest463.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest47/Contest47.iml" filepath="$PROJECT_DIR$/Contest47/Contest47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest492/Contest492.iml" filepath="$PROJECT_DIR$/Contest492/Contest492.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest515/Contest515.iml" filepath="$PROJECT_DIR$/Contest515/Contest515.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest533/Contest533.iml" filepath="$PROJECT_DIR$/Contest533/Contest533.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest534/Contest534.iml" filepath="$PROJECT_DIR$/Contest534/Contest534.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest535/Contest535.iml" filepath="$PROJECT_DIR$/Contest535/Contest535.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest66/Contest66.iml" filepath="$PROJECT_DIR$/Contest66/Contest66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest677/Contest677.iml" filepath="$PROJECT_DIR$/Contest677/Contest677.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest680/Contest680.iml" filepath="$PROJECT_DIR$/Contest680/Contest680.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest734/Contest734.iml" filepath="$PROJECT_DIR$/Contest734/Contest734.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest746/Contest746.iml" filepath="$PROJECT_DIR$/Contest746/Contest746.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest78/Contest78.iml" filepath="$PROJECT_DIR$/Contest78/Contest78.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest791/Contest791.iml" filepath="$PROJECT_DIR$/Contest791/Contest791.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest920/Contest920.iml" filepath="$PROJECT_DIR$/Contest920/Contest920.iml" />
+    </modules>
+  </component>
+</project>
