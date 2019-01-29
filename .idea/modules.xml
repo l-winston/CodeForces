@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest102/Contest102.iml" filepath="$PROJECT_DIR$/Contest102/Contest102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest1107/Contest1107.iml" filepath="$PROJECT_DIR$/Contest1107/Contest1107.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest16/Contest16.iml" filepath="$PROJECT_DIR$/Contest16/Contest16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest227/Contest227.iml" filepath="$PROJECT_DIR$/Contest227/Contest227.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest463/Contest463.iml" filepath="$PROJECT_DIR$/Contest463/Contest463.iml" />
@@ -20,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Contest746/Contest746.iml" filepath="$PROJECT_DIR$/Contest746/Contest746.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest78/Contest78.iml" filepath="$PROJECT_DIR$/Contest78/Contest78.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest791/Contest791.iml" filepath="$PROJECT_DIR$/Contest791/Contest791.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest812/Contest812.iml" filepath="$PROJECT_DIR$/Contest812/Contest812.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest920/Contest920.iml" filepath="$PROJECT_DIR$/Contest920/Contest920.iml" />
     </modules>
   </component>
